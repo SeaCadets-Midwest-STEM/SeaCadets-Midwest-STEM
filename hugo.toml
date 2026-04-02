@@ -4,7 +4,7 @@ title = "Sea Cadets Midwest STEM"
 theme = "seacadets-midwest"
 
 [params]
-  description = "STEM programs and training opportunities for U.S. Naval Sea Cadets in the Midwest region."
+  description = "STEM programs and training opportunities for U.S. Naval Sea Cadets, hosted in Indiana."
   org_name = "Sea Cadets Midwest STEM"
   seacadets_url = "https://www.seacadets.org"
   quarterdeck_info = "Register for trainings through Quarterdeck at https://www.seacadets.org using your training code."

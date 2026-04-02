@@ -1,6 +1,6 @@
 ---
 title: "Events"
-description: "Upcoming and past STEM training events for Sea Cadets in the Midwest."
+description: "Upcoming and past STEM training events for Sea Cadets, hosted in Indiana."
 hero_title: "Events"
 hero_subtitle: "Find your next STEM training opportunity"
 ---

@@ -7,7 +7,7 @@ hero_subtitle: "Questions? We'd love to hear from you."
 
 ## Get in Touch
 
-If you have questions about Midwest STEM programs, events, or partnership opportunities, please reach out through the channels below.
+If you have questions about our STEM programs, events, or partnership opportunities, please reach out through the channels below.
 
 ## For Cadets and Parents
 
@@ -21,7 +21,7 @@ If you're interested in volunteering as a STEM instructor or supporting our prog
 
 ## For Partners and Sponsors
 
-Organizations interested in supporting Midwest STEM education for Sea Cadets are encouraged to reach out. We welcome partnerships that help us expand access to high-quality training.
+Organizations interested in supporting STEM education for Sea Cadets are encouraged to reach out. We welcome partnerships that help us expand access to high-quality training.
 
 ## General Inquiries
 

@@ -8,7 +8,7 @@ tags: ["announcement", "stem"]
 categories: ["General"]
 ---
 
-We're excited to announce the launch of the Sea Cadets Midwest STEM initiative! Our mission is to expand access to high-quality STEM training for cadets across the Midwest region.
+We're excited to announce the launch of the Sea Cadets Midwest STEM initiative! Our mission is to expand access to high-quality STEM training for cadets nationwide, with programs hosted in Indiana.
 
 ## What to Expect
 

@@ -1,6 +1,6 @@
 ---
 title: "Programs"
-description: "STEM programs available to Sea Cadets in the Midwest region."
+description: "STEM programs available to Sea Cadets nationwide, hosted in Indiana."
 hero_title: "STEM Programs"
 hero_subtitle: "Explore our hands-on STEM training opportunities"
 ---

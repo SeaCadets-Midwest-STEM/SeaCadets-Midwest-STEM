@@ -1,13 +1,13 @@
 ---
 title: "About"
-description: "About the Sea Cadets Midwest STEM initiative."
+description: "About the Sea Cadets Midwest STEM initiative — STEM training for cadets nationwide, hosted in Indiana."
 hero_title: "About Midwest STEM"
 hero_subtitle: "Our mission and what drives us"
 ---
 
 ## Our Mission
 
-The Sea Cadets Midwest STEM initiative works to expand access to high-quality STEM training for U.S. Naval Sea Cadets in the Midwest region. We connect cadets with hands-on learning experiences in robotics, cybersecurity, engineering, and more.
+The Sea Cadets Midwest STEM initiative works to expand access to high-quality STEM training for U.S. Naval Sea Cadets nationwide. Hosted in Indiana, we connect cadets from across the country with hands-on learning experiences in robotics, cybersecurity, engineering, and more.
 
 ## Who We Are
 
