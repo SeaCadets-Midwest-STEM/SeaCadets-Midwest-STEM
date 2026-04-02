@@ -1,4 +1,4 @@
-baseURL = "https://seacadets-midwest-stem.github.io/SeaCadets-Midwest-STEM/"
+baseURL = "https://seacadets-midwest-stem.github.io/"
 languageCode = "en-us"
 title = "Sea Cadets Midwest STEM"
 theme = "seacadets-midwest"
